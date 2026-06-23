@@ -1,6 +1,6 @@
 # hundredhhires-test
 
-Tools Installed
+**Tools Installed**
 
 -⁠  ⁠Cursor (code editor)
 
@@ -8,7 +8,7 @@ Tools Installed
 
 -⁠  ⁠Codex extension
 
-Steps Completed
+**Steps Completed**
 
 -  ⁠Installed Cursor as the main code editor
 
@@ -41,7 +41,7 @@ Steps Completed
 ⁠`git push origin main`
 ```
 
-Issues Encountered & Solutions
+**Issues Encountered & Solutions**
 - **Issue:** Git push to GitHub failed due to missing `user.name` and `user.email` configuration.
 
 - **Solution:** Configured Git identity using:
