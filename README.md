@@ -18,27 +18,27 @@ Steps Completed
 
 -  Cloned the repository to my local machine 
 ``` bash 
-(`git clone`)
+`git clone`
 ```
 
 -⁠  ⁠Initialized a local Git repository 
 ``` bash 
-(`git init`)
+`git init`
 ```
 
 -⁠  ⁠Connected the local repository to a remote GitHub repository 
 ```bash 
-(`git remote add origin`)
+`git remote add origin`
 ```
 
 -⁠  ⁠Staged and committed changes 
 ``` bash 
-(`git add`, `git commit`)
+`git add`, `git commit`
 ```
 
 -⁠  ⁠Pushed the repository to GitHub 
 ``` bash 
-(⁠`git push origin main`)
+⁠`git push origin main`
 ```
 
 Issues Encountered & Solutions
