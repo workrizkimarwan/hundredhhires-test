@@ -12,9 +12,9 @@ from youtube_transcript_api import YouTubeTranscriptApi
 import os
 
 # ====== UBAH BAGIAN INI ======
-VIDEO_ID = "H2O9Hpaksv8"  # ganti dengan ID video yang mau diambil
-VIDEO_TITLE = "Sam Dunning: This SEO Expert Reveals Why Your Strategy Is Killing Your Leads"
-AUTHOR_NAME = "Sam Dunning"
+VIDEO_ID = "QhhbOHi9apM"
+VIDEO_TITLE = "Introducing Marketing Against the Grain Podcast"
+AUTHOR_NAME = "Kipp Bodnar and Kieran Flanagan"
 OUTPUT_FOLDER = "research/youtube-transcripts"
 # ==============================
 
